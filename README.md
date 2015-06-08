@@ -1,5 +1,5 @@
 # datasciencecoursera
 Course assignment
 
-## Testing
-Adding some stuff.
+## Testing 2
+Changed some stuff through RStudio.
